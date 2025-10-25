@@ -1,4 +1,4 @@
-# ![User Icon](src/assets/images/user-icon.png) User Management App
+# User Management App
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)](https://reactjs.org/)  
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
@@ -28,6 +28,13 @@ A **React-based User Management Application** to **add, view, edit, and manage u
 - react-icons  
 
 ---
+
+## 🌐 Live Demo
+Check out the live app here:  
+[**User Management App Live Demo**](https://Karripravallika.github.io/user-management-app)
+
+---
+
 
 ## 🚀 Getting Started
 
